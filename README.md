@@ -4,4 +4,5 @@
 
 ## Classes
 
-*Arduino for Everyone*
+*[Arduino for Everyone](arduino_class_description.md)*
+
